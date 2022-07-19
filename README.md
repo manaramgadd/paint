@@ -1,2 +1,2 @@
-# paint-
+# paint
 paint project using java
